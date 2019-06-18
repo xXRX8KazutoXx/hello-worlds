@@ -1,5 +1,5 @@
 # hello-worlds
-just another repository
+just another repository repository
 
 hi im lemuel james i'm new here in github
 
